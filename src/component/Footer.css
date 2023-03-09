@@ -1,0 +1,14 @@
+.footer_1 {
+    background-color: #232F3E;
+    width: 100%;
+    min-height: 200px;
+    color: whitesmoke;
+}
+
+.footer_2 {
+    background-color: #354558;
+    min-height: 60px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
