@@ -30,4 +30,3 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
