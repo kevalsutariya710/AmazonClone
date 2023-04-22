@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-### `npm create-react-app "app-name"`
+### `npm install`
 
 
 ### `npm start`
