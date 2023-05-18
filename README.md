@@ -1,6 +1,6 @@
 # Getting Started 
 
-### `npm inst`
+### `npm i`
 
 ### `npm start`
 
