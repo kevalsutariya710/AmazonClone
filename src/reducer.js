@@ -11,7 +11,6 @@ const reducer = (state, action) => {
             }
         default:
             break
-
     }
 
 
