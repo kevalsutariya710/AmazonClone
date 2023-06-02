@@ -1,5 +1,6 @@
 import React, { createContext, useContext, useReducer } from "react";
 
+
 //preparing the data layer
 export const StateContext = createContext();
 //wrap our components,provide the provider
