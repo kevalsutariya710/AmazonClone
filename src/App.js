@@ -16,6 +16,7 @@ function App() {
             <Checkout />
           </div>
         } />
+  
       </Routes>
       <Routes>
         <Route path="/login" element={<Login />} />
